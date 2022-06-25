@@ -16,12 +16,12 @@
 
 # 本地工程生成不用提交
 *.csproj
-Unity/Library/
+Library/
 *.sln
 __pycache__
 
 
 # tmp目录
-Unity/Temp
+Temp
 # tmp目录
-Unity/obj
+obj
